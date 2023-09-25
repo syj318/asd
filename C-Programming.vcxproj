@@ -143,6 +143,7 @@
     <ClCompile Include="ex2.c" />
     <ClCompile Include="ex3_1.c" />
     <ClCompile Include="ex3_2.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
